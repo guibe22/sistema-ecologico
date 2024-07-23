@@ -1,0 +1,14 @@
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.AssemblyInfoInputs.cache
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.AssemblyInfo.cs
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.csproj.CoreCompileInputs.cache
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.exe
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.deps.json
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.runtimeconfig.json
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.dll
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\bin\Debug\net8.0\SistemaEcologico.pdb
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.dll
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\refint\SistemaEcologico.dll
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.pdb
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\SistemaEcologico.genruntimeconfig.cache
+C:\Users\Estudianteucne\source\repos\SistemaEcologico\SistemaEcologico\obj\Debug\net8.0\ref\SistemaEcologico.dll

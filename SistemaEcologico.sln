@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaEcologico", "SistemaEcologico\SistemaEcologico.csproj", "{CEDD6B0D-CF29-4A34-8604-D3430ABC6FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDD6B0D-CF29-4A34-8604-D3430ABC6FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDD6B0D-CF29-4A34-8604-D3430ABC6FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDD6B0D-CF29-4A34-8604-D3430ABC6FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDD6B0D-CF29-4A34-8604-D3430ABC6FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F439955-035F-49FB-83D9-E4352FEA2CCB}
+	EndGlobalSection
+EndGlobal
